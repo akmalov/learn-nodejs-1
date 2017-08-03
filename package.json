@@ -1,0 +1,19 @@
+{
+  "name": "learn-nodejs-1",
+  "version": "1.0.0",
+  "description": "Learn Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akmalov/learn-nodejs-1.git"
+  },
+  "author": "Sergey Akmalov",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "nodemon": "^1.11.0"
+  }
+}
